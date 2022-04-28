@@ -1,6 +1,1 @@
-<<<<<<< HEAD
-Hello from Vaibhav Singh.
 Hello from Vaibhav Singh1.
-=======
-Hello from Vaibhav Singh1
->>>>>>> 45981f2f4306dbdafdf68a7dadaa632b02aa3690
